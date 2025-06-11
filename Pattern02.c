@@ -1,5 +1,4 @@
-/*
-Accept the number of Rows and Columns from the user and print below pattern
+/* Accept the number of Rows and Columns from the user and print below pattern
 
 *   * 	*   *
 *   *   *   *
@@ -7,6 +6,7 @@ Accept the number of Rows and Columns from the user and print below pattern
 *   *   *   *
 
 */
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 #include<stdio.h>
@@ -48,3 +48,4 @@ int main()
 
 	return 0;
 }
+
