@@ -1,10 +1,10 @@
-/*
-  Accept one number from user and print that number of star on screen.
+/* Accept one number from user and print that number of star on screen.
 
    Input- 5
    Output- * * * * *
 
 */
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 #include<stdio.h>
