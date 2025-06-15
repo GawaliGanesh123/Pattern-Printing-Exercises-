@@ -3,13 +3,13 @@
 Input : iRow = 4 iCol = 4
 
 Output : A  	B  	C  	D
-         A    B   C  	D
-         A    B  	C  	D
+         A      B       C  	D
+         A      B  	C  	D
          A  	B  	C  	D
 
 
 */
-////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include<stdio.h>
 
@@ -18,7 +18,7 @@ void DisplayPattern(int iRow, int iCol)
 	int i=0; 
 	int j=0;
 	char ch='A';
-
+ 
 	if(iRow != iCol)
 	{
 		printf("Please Enter Equal  Rows & Columns Count");
