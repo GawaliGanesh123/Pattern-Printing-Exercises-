@@ -39,7 +39,7 @@ void DisplayPattern(int iRow, int iCol)
 	}
 
 }
-
+  
 
 int main()
 {
