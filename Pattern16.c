@@ -47,5 +47,5 @@ int main()
 	Display_Pattern(iRow, iCol);
 
 	return 0;
-}
+} 
 
