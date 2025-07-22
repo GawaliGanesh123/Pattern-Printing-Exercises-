@@ -23,7 +23,7 @@ void Display_Pattern(int iRow, int iCol)
 
 	for(i=1; i<=iRow; i++)
 	{
-	  for(j=1; j<=iCol; j++)
+	  for(j=1; j<=iCol; j++) 
 	  {
 	  	if(i==j)
 	    printf("@\t");
