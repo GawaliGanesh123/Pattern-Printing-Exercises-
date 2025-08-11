@@ -37,7 +37,7 @@ void Display_Pattern(int iRow, int iCol)
           printf("\n");
         }
 }
-
+ 
 int main()
 {
         int iRow=0, iCol=0;
