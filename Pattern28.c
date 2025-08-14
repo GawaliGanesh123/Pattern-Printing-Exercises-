@@ -12,7 +12,7 @@
  
  
 #include<stdio.h>
-
+ 
 void Display_Pattern(int iRow, int iCol)
 {
         int i=0,j=0; 
@@ -53,6 +53,7 @@ int main()
         return 0;
 
 }
+
 
 
 
