@@ -15,7 +15,7 @@
  
 void Display_Pattern(int iRow, int iCol)
 { 
-        int i=0,j=0;  
+        int i=0,j=0;   
  
         if(iRow != iCol)
         {
@@ -53,6 +53,7 @@ int main()
         return 0;
 
 }
+
 
 
 
