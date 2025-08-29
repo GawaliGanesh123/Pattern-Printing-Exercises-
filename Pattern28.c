@@ -39,7 +39,7 @@ void Display_Pattern(int iRow, int iCol)
 }
  
 int main()
-{
+{ 
         int iRow=0, iCol=0;
 
         printf("Enter Number of Rows:\n");
