@@ -22,7 +22,7 @@ void Display_Pattern(int iRow, int iCol)
                 printf("Please Enter Equal  Rows & Columns Count");
                 return;
         }   
-
+ 
         for(i=1; i<=iRow; i++)
         {
           for(j=1; j<=iCol; j++)
