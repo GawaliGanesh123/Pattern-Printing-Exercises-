@@ -16,7 +16,7 @@
 void Display_Pattern(int iRow, int iCol) 
 { 
         int i=0,j=0;    
-  
+   
         if(iRow != iCol)   
         {
                 printf("Please Enter Equal  Rows & Columns Count");
