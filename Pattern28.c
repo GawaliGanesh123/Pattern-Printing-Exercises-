@@ -27,7 +27,7 @@ void Display_Pattern(int iRow, int iCol)
         {
           for(j=1; j<=iCol; j++)
           {
-            if(i<=j) 
+            if(i<=j)  
             { 
                 printf("*\t");
             }   
