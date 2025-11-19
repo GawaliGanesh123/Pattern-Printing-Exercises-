@@ -4,8 +4,8 @@ Input : iRow = 4 iCol = 4
 
 Output : A 	 B 	 C 	  D
          a 	 b 	 c 	  d
-         A       B       C        D
-         a       b       c        d
+         A   B   C    D
+         a   b   c    d
 
 
 */
@@ -62,3 +62,4 @@ int main()
 
 	return 0;
 }
+
